@@ -1,1 +1,2 @@
-<h1 align="center">Selamat datang di komunitas <a href="https://pelacore.com">Pelacore!</a></h1>
+# GitHub Default
+Dotfile seluruh organisasi dan lainnya untuk akun @pelacore.
